@@ -1,0 +1,4 @@
+requests
+pandas
+Jinja2
+boto3
